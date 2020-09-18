@@ -13,7 +13,7 @@ I'm feel myself quite confident in HTML and CSS. I had some course works in Univ
 
 Code examples
 
-[Bitbucket](https://ekaterina_kuznetcova@bitbucket.org/trbogdanov/dictionary-9375.git  (1st year Uni course work on 'Programming' subject)
+[Bitbucket](https://ekaterina_kuznetcova@bitbucket.org/trbogdanov/dictionary-9375.git)  (1st year Uni course work on 'Programming' subject)
 
 Experience
 
