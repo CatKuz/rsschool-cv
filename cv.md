@@ -19,7 +19,7 @@ Experience
 
 As I already mentioned my course work, I was working on it for 3 month. And my current occupation as junior manual QA. I test releases on [meraxe](https://about.meraxe.com/).
 Education
-UNIVERSITY OF PENNSYLVANIA (Coursera) 'English for Science, Technology, Engineering, and Mathematics', Academy of Informatics of SPbPU 'Web technologies'(offline), NRU HSE (Coursera) 'Fundamentals of Python Programming', Udemy 'Become a QA engineer'
+UNIVERSITY OF PENNSYLVANIA (Coursera) 'English for Science, Technology, Engineering, and Mathematics', Academy of Informatics of SPbPU 'Web technologies'(offline), HSE (Coursera) 'Fundamentals of Python Programming', Udemy 'Become a QA engineer'
 
 English
 
