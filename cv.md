@@ -12,12 +12,7 @@ Code examples
 Experience
 As I already mentioned my course work, I was working on it for 3 month. And my current occupation as junior manual QA. I test releases on [meraxe] (https://about.meraxe.com/).
 Education
-<<<<<<< HEAD
 UNIVERSITY OF PENNSYLVANIA (Coursera) 'English for Science, Technology, Engineering, and Mathematics', Academy of Informatics of SPbPU 'Web technologies'(offline), HSE (Coursera) 'Fundamentals of Python Programming', Udemy 'Become a QA engineer'
-
-=======
-UNIVERSITY OF PENNSYLVANIA (Coursera) 'English for Science, Technology, Engineering, and Mathematics', Academy of Informatics of SPbPU 'Web technologies'(offline), NRU HSE (Coursera) 'Fundamentals of Python Programming', Udemy 'Become a QA engineer'
->>>>>>> parent of 0c47c7e... Liknks update in cv.md
 English
 C1+ I study English for 10 years now and always continuously, since I participated in Olympiads and contests. Also, I use it every day for studying (courses in taught in English), literature and work (I write for [ITMO NEWS BLOG](https://news.itmo.ru/en/blogs/) and rewrite articles concerning Microsoft technologies as a freelancer).
 
