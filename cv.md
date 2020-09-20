@@ -1,5 +1,6 @@
 
 
+
 **Ekaterina Kuznetsova**
 E-mali: katrin.kuznetsova74@gmail.com, phone number: *89111666750*
 
@@ -15,4 +16,3 @@ Education
 UNIVERSITY OF PENNSYLVANIA (Coursera) 'English for Science, Technology, Engineering, and Mathematics', Academy of Informatics of SPbPU 'Web technologies'(offline), HSE (Coursera) 'Fundamentals of Python Programming', Udemy 'Become a QA engineer'
 English
 C1+ I study English for 10 years now and always continuously, since I participated in Olympiads and contests. Also, I use it every day for studying (courses in taught in English), literature and work (I write for [ITMO NEWS BLOG](https://news.itmo.ru/en/blogs/) and rewrite articles concerning Microsoft technologies as a freelancer).
-
